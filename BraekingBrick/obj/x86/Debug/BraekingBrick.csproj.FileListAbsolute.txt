@@ -1,0 +1,9 @@
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\BraekingBrick.Form1.resources
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\BraekingBrick.Properties.Resources.resources
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\bin\Debug\BraekingBrick.exe
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\bin\Debug\BraekingBrick.pdb
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\BraekingBrick.exe
+c:\users\dood\documents\visual studio 2010\Projects\BraekingBrick\BraekingBrick\obj\x86\Debug\BraekingBrick.pdb
